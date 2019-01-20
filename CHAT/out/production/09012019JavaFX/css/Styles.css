@@ -1,0 +1,16 @@
+#btn {
+    -fx-text-fill: transparent;
+
+    -fx-background-image: url("../img/send.png");
+    -fx-background-size: 30 20;
+    -fx-background-size: 100% 100%;
+
+}
+
+#btn: hover {
+    -fx-text-fill: red;
+}
+#label{
+-fx-underline: true;
+-fx-text-fill: red;
+}
