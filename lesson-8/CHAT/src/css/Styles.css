@@ -1,0 +1,26 @@
+#btn {
+    -fx-text-fill: transparent;
+
+    -fx-background-image: url("../img/send.png");
+    -fx-background-size: 30 20;
+    -fx-background-size: 100% 100%;
+
+}
+
+#btn: hover {
+    -fx-text-fill: red;
+}
+#label{
+-fx-background-color: limegreen;
+-fx-background-clip: padding-box;
+-fx-text-fill: white;
+-fx-border-color: black;
+-fx-border-radius: 8px;
+-fx-background-radius: 8px;
+
+-fx-label-padding: 5;
+-fx-max-width: 225px;
+-fx-wrap-text: true;
+
+}
+
